@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf0dabe77b4e54cad96a49528ce9e634, type: 3}
+  m_Name: Hardy
+  m_EditorClassIdentifier: Assembly-CSharp::PermaUpgrade
+  upgradeName: Hardy
+  icon: {fileID: 21300000, guid: fa0f7ba2cd2304739a3ab1c818064154, type: 3}
+  maxLevel: 10
+  description: Reduces all incoming damage by a percentage.
+  baseCost: 1500
+  costMultiplier: 1.7
